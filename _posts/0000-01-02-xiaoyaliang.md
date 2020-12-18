@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Let's make friends and work together
+**It is a snowy day!**
 Use the left arrow to go back!
